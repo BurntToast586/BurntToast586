@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there!
+I'm new to Github, so I'm open to any suggestions and help you provide!
+I don't know what else to write, so please enjoy this cute penguin:
+![download](https://github.com/user-attachments/assets/5799e0af-db6c-4c77-8af8-422056acd4a8)
 
+Pronouns: He/him(me, not the penguin)
 <!--
 **BurntToast586/BurntToast586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
